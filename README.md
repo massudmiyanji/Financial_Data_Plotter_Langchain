@@ -30,3 +30,15 @@ This is a Streamlit application that allows users to input financial queries and
    ```bash
    git clone https://github.com/your-username/financial-doc-processing.git
    cd financial-doc-processing
+
+   pip install -r requirements.txt
+
+   API_KEY=your_api_key
+
+   streamlit run app.py
+
+
+
+
+
+
